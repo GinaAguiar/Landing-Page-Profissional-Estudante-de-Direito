@@ -23,15 +23,11 @@ https://ginaaguiar.github.io/landing-page-comercial/
 
 ### 💻 Versão Desktop
 
-```markdown
 ![Landing Page Hina](Imagens/capa-landing-page.jpg)
-```
 
 ### 📱 Versão Mobile
 
-```markdown
 ![Landing Page Hina](Imagens/capa-landing-page-mobile.jpeg)
-```
 
 ## 🛠️ Tecnologias Utilizadas
 

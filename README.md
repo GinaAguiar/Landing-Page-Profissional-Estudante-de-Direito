@@ -6,7 +6,7 @@ O projeto foi desenvolvido com foco em elegância, responsividade e experiência
 
 ## 🔗 Acesse o Projeto
 
-https://ginaaguiar.github.io/landing-page-comercial/
+https://hina-aguiar-direito.netlify.app/
 
 ## ✨ Funcionalidades
 
